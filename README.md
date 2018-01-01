@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This project was build with a [Yarn](https://yarnpkg.com/en/) for package managing.
 
-As a frontend framework for building this project [admin-on-rest](https://marmelab.com/admin-on-rest/index.html).
+As a frontend framework for building this project [admin-on-rest](https://marmelab.com/admin-on-rest/index.html) was in use.
 
 In order to set up local environment following run following commands:
 
